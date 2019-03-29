@@ -43,7 +43,7 @@ You can find more details here: http://jollymonsterstudio.com/2018/12/15/unreal-
 
 You can find the associated video tutorial here: https://youtu.be/rJ1JIhfTKJk
 
-### [Player Character - Movement 01 - Crouch & Stance Changes using Animation Blending + State Machine](https://github.com/jollymonsterstudio/Unreal-Series-Player-Character-Part6)
+### [Player Character - Movement 01 - Crouch & Stance Changes using Animation Blending + State Machine](https://github.com/jollymonsterstudio/PlayerCharacterSeries/Movement01)
 
 You can find more details here: http://jollymonsterstudio.com/2019/03/28/unreal-c-tutorial-player-character-series-movement-crouch-stance-changes-using-animation-blending-state-machine/
 
