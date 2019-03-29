@@ -7,52 +7,47 @@ This is the collection of all the Unreal Engine C++ Fundamentals projects.
 Each directory represents a project associated with a video and a tutorial page.
 
 ## Index
-### [Fundamentals 01 - Structs](https://github.com/jollymonsterstudio/Unreal-Engine-Fundamentals/tree/master/UE4Fundamentals01)
+### [Player Character 01 - Punch Kick - Intro](https://github.com/jollymonsterstudio/Unreal-Series-Player-Character-Part1)
 
 You can find more details here: http://jollymonsterstudio.com/2018/12/07/ue4-c-fundamentals-structs/
 
-You can find the associated video tutorial here: https://youtu.be/eTewPCRqqqI
+You can find the associated video tutorial here: https://youtu.be/cWWuDf2ZUj0
 
-### [Fundamentals 02 - Data Tables](https://github.com/jollymonsterstudio/Unreal-Engine-Fundamentals/tree/master/UE4Fundamentals02)
+### [Player Character 02 - Punch Kick - Collisions](https://github.com/jollymonsterstudio/Unreal-Series-Player-Character-Part2)
 
-You can find more details here: http://jollymonsterstudio.com/2018/12/08/ue4-c-fundamentals-datatables/
+You can find more details here: http://jollymonsterstudio.com/2018/11/25/unreal-c-tutorial-player-character-series-punch-part-2-collisions/
 
-You can find the associated video tutorial here: https://youtu.be/emhNwBAZ9k4
+You can find the associated video tutorial here: https://youtu.be/IWnSlOmVhTM
 
-### [Fundamentals 03 - UAnimNotify & UAnimNotifyState](https://github.com/jollymonsterstudio/Unreal-Engine-Fundamentals/tree/master/UE4Fundamentals03)
+### [Player Character 03 - Punch Kick - Collision Events](https://github.com/jollymonsterstudio/Unreal-Series-Player-Character-Part3)
 
-You can find more details here: http://jollymonsterstudio.com/2018/12/10/unreal-engine-c-fundamentals-uanimnotify-uanimnotifystate/
+You can find more details here: http://jollymonsterstudio.com/2018/11/30/unreal-c-tutorial-player-character-series-punch-part-3-collision-events/
 
-You can find the associated video tutorial here: https://youtu.be/A0rkOSDp_jQ
+You can find the associated video tutorial here: https://youtu.be/K9yp5bpEXXQ
 
-### [Fundamentals 04 - UAnimInstance](https://github.com/jollymonsterstudio/Unreal-Engine-Fundamentals/tree/master/UE4Fundamentals04)
+### [Player Character 04 - Punch Kick - Sounds](https://github.com/jollymonsterstudio/Unreal-Series-Player-Character-Part4)
 
-You can find more details here: http://jollymonsterstudio.com/2018/12/13/unreal-engine-c-fundamentals-uaniminstance/
+You can find more details here: http://jollymonsterstudio.com/2018/12/01/unreal-c-tutorial-player-character-series-punch-part-4-sounds/
 
-You can find the associated video tutorial here: https://youtu.be/Es7iPIrh0ow
+You can find the associated video tutorial here: https://youtu.be/i8QQdr0Lo_Y
 
-### [Fundamentals 05 - LineTraceSingleByChannel](https://github.com/jollymonsterstudio/Unreal-Engine-Fundamentals/tree/master/UE4Fundamentals05)
+### [Player Character 05 - Punch Kick - Play Sounds](https://github.com/jollymonsterstudio/Unreal-Series-Player-Character-Part5)
 
 You can find more details here: http://jollymonsterstudio.com/2019/01/06/unreal-engine-c-fundamentals-linetracesinglebychannel-and-friends-drawdebugbox-drawdebugline-fhitresult-and-vrandcone/
 
-You can find the associated video tutorial here: https://youtu.be/mz9C656dUuY
+You can find the associated video tutorial here: https://youtu.be/LT9xAPOp03Y
 
-### [Fundamentals 06 - Override and Implement a Custom UAnimInstance](https://github.com/jollymonsterstudio/Unreal-Engine-Fundamentals/tree/master/UE4Fundamentals06)
+### [Player Character 06 - Punch Kick - Review using Kicks !](https://github.com/jollymonsterstudio/Unreal-Series-Player-Character-Part6)
 
-You can find more details here: http://jollymonsterstudio.com/2019/01/12/unreal-engine-c-fundamentals-override-uaniminstance/
+You can find more details here: http://jollymonsterstudio.com/2018/12/15/unreal-c-tutorial-player-character-series-punch-part-6-review-using-kicks/
 
-You can find the associated video tutorial here: https://youtu.be/6VMOCO-JcOQ
+You can find the associated video tutorial here: https://youtu.be/rJ1JIhfTKJk
 
-### [Fundamentals 07 - FTimerHandle & Timers](https://github.com/jollymonsterstudio/Unreal-Engine-Fundamentals/tree/master/UE4Fundamentals07)
+### [Player Character 01 - Movement - Review using Kicks !](https://github.com/jollymonsterstudio/Unreal-Series-Player-Character-Part6)
 
-You can find more details here: http://jollymonsterstudio.com/2019/02/19/unreal-engine-c-fundamentals-ftimerhandle-timers/
+You can find more details here: http://jollymonsterstudio.com/2018/12/15/unreal-c-tutorial-player-character-series-punch-part-6-review-using-kicks/
 
-You can find the associated video tutorial here: https://youtu.be/z_iWNEerihY
+You can find the associated video tutorial here: https://youtu.be/rJ1JIhfTKJk
 
-### [Fundamentals 08 - AHUD, UUserWidget & UWidgetAnimation](https://github.com/jollymonsterstudio/Unreal-Engine-Fundamentals/tree/master/UE4Fundamentals08)
-
-You can find more details on the subject here: http://jollymonsterstudio.com/2019/03/12/unreal-engine-c-fundamentals-ahud-uuserwidget-and-uwidgetanimation/
-
-You can find the associated video tutorial here: https://youtu.be/lYfXkxlInVI
 
 Hope this helps, Thanks.
