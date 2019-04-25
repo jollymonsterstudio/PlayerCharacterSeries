@@ -1,13 +1,13 @@
 # Unreal Engine C++ Player Character
-### Movement 01 - Crouch & Stance Changes using Animation Blending + State Machine
+### Movement 02 - Walk, Run, Strafe !? using Blendspaces
 
 Hey guys,
 
-This is the first video in our Unreal Engine C++ Player Character Movement series talking about crouch and armed states as well as how to handle animation blends between them.
+This is the next video in our Unreal Engine C++ Player Character Movement series talking about creating animation states that move our character from a walk to a run, as well expand our stance switching by adding in a new blendspace for strafing.
 
-You can find more details on the subject here: http://jollymonsterstudio.com/2019/03/28/unreal-c-tutorial-player-character-series-movement-crouch-stance-changes-using-animation-blending-state-machine/
+You can find more details on the subject here: TBD
 
-You can find the associated video tutorial here: https://youtu.be/PH43xrZN0xM
+You can find the associated video tutorial here: TBD
 
 
 Hope this helps, Thanks.
