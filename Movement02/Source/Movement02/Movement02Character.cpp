@@ -83,14 +83,10 @@ AMovement02Character::AMovement02Character()
 	LeftMeleeCollisionBox->SetCollisionProfileName(MeleeCollisionProfile.Disabled);
 	LeftMeleeCollisionBox->SetNotifyRigidBodyCollision(false);
 
-	LeftMeleeCollisionBox->SetHiddenInGame(false);
-
 	RightMeleeCollisionBox = CreateDefaultSubobject<UBoxComponent>(TEXT("RightMeleeCollisionBox"));
 	RightMeleeCollisionBox->SetupAttachment(RootComponent);
 	RightMeleeCollisionBox->SetCollisionProfileName(MeleeCollisionProfile.Disabled);
 	RightMeleeCollisionBox->SetNotifyRigidBodyCollision(false);
-
-	RightMeleeCollisionBox->SetHiddenInGame(false);
 
 	// set animation blending on by default
 	bIsAnimationBlended = true;

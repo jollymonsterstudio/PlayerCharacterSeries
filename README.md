@@ -49,11 +49,11 @@ You can find more details here: http://jollymonsterstudio.com/2019/03/28/unreal-
 
 You can find the associated video tutorial here: https://youtu.be/PH43xrZN0xM
 
-
 ### [Player Character - Movement 02 - Walk, Run, Strafe !? using Blendspaces](https://github.com/jollymonsterstudio/PlayerCharacterSeries/tree/master/Movement02)
 
-You can find more details here: TBD
+You can find more details here: http://jollymonsterstudio.com/2019/04/25/c-player-character-movement-02-walk-run-strafe/
 
-You can find the associated video tutorial here: TBD
+You can find the associated video tutorial here: https://www.youtube.com/watch?v=cEVCKqLpSeE
+
 
 Hope this helps, Thanks.
